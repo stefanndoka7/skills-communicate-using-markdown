@@ -5,3 +5,8 @@
 ```C++
 std::cout << "Hello World!\n";
 ```
+
+- [ ] complete ITCS 2530
+- [x] complete the online discussion boards for the week
+- [ ] complete this weeks quiz
+- [ ] finish programming assignment
